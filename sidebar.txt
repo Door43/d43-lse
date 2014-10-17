@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lse:home|Door43 (lse)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lse|d43-lse repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lse/archive/master.zip|d43-lse.zip]]
+
+**Recent Changes**
+{{changes>ns = lse}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lse|Ethnologue data]]
+
